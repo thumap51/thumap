@@ -83,7 +83,7 @@ text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 .snowflake {
   position: absolute;
   top: -10vh;
-  color: white;
+  color: red;
   user-select: none;
   z-index: 9999;
 }
