@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "teddy",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../Desktop/img"
+		}
+	],
+	"settings": {}
+}
